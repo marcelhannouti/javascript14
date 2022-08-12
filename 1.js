@@ -48,7 +48,7 @@ function sustituir3(array3) {
 // 4
 let array4= ["🍓","🍋","🍓","🍋","🍓"]
 sustituir4(array4)
-console.log("4")
+
 function sustituir4(array4) {
     array4.forEach(array4 => {
         if (array4 == "🍓") {
